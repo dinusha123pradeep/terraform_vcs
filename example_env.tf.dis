@@ -1,0 +1,7 @@
+tag_pre_fix              = "" 
+ec2_app_server_count     = 2 
+public_subnet_count      = 2
+private_app_subnet_count = 2
+private_db_subnet_count  = 2
+db_username              = ""
+db_password              = ""
